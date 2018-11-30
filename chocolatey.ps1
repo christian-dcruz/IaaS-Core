@@ -1,4 +1,4 @@
-choco install chocolatey-core.extension
+choco install -y chocolatey-core.extension
 choco install -y googlechrome
 choco install -y git
 choco install -y tortoisegit
