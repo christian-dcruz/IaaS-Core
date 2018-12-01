@@ -1,0 +1,1 @@
+code --install-extension --force mbinic.tgit-cmds
