@@ -1,0 +1,1 @@
+Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/christian-dcruz/IaaS-Core/master/core.ps1'));
