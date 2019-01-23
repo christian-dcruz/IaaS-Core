@@ -1,6 +1,7 @@
 choco install -y chocolatey-core.extension
 choco install -y git
 choco install -y vscode
+choco install -y netfx-4.7.2-devpack
 choco install -y dotnetcore-sdk
 choco install -y googlechrome
 choco install -y tortoisegit
